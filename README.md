@@ -1,1 +1,1 @@
-# cria-o-de-Flexbox
+Este projeto é um exemplo prático de um layout responsivo utilizando **CSS Flexbox**. O objetivo é demonstrar o alinhamento de containers, o uso de fontes customizadas do Google Fonts e a adaptação de elementos em diferentes tamanhos de tela.
